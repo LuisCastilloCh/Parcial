@@ -1,0 +1,5 @@
+74HC595 con arduino 
+https://www.tinkercad.com/things/3qfZefc5210-74hc595/editel?sharecode=InknQ29M4MCkaBOGxyCj3k76nHf0XW_Txc0clhszgdw
+
+74HC595 sin arduino
+https://www.tinkercad.com/things/dj4v7Ihj7Lq-74hc595-no-arduino/editel?sharecode=4DngmCm2kuNGRdBx-diPLDyOXAfHEpToICxPn7WrC18
